@@ -1,0 +1,6 @@
+So these are some hackerrank solutions I'm working through! They mostly center around algorithms, and finding shortest runtimes.
+I'll be steadily adding to this as I have time, but for now the first two are a problem from Graph Theory and from Dynamic Programming,
+
+Dijkstra's Shortest Reach 2 (https://www.hackerrank.com/challenges/dijkstrashortreach)
+and
+Fibonacci Modified (https://www.hackerrank.com/challenges/fibonacci-modified/problem)
